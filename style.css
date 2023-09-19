@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+
+#para-name{
+    color:brown;
+}
+button{
+    background-color:darkolivegreen;
+    color:white;
+    height:70px;
+    width:150px;
+}
+
+table,th,td{
+    border:1px solid black;
+}
+
+img{
+    height:200px;
+    width:150px;
+    border:5px solid black;
+    border-radius: 30px;
+}
